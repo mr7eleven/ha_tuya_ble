@@ -401,6 +401,7 @@ devices_database: dict[str, TuyaBLECategoryInfo] = {
     ),
     "jtmspro": TuyaBLECategoryInfo(
         products={
+            "pkhl2zbs": TuyaBLEProductInfo(name="K10 Smart Knob", lock=1),
             "xicdxood": TuyaBLEProductInfo(name="Raycube K7 Pro+", lock=1),
             "oyqux5vv": TuyaBLEProductInfo(name="LA-01 Smart lock", lock=1),
             "rlyxv7pe": TuyaBLEProductInfo(name="A1 PRO MAX", lock=1),
