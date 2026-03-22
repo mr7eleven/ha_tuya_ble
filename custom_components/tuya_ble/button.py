@@ -172,6 +172,7 @@ mapping: dict[str, TuyaBLECategoryButtonMapping] = {
         products={
             **dict.fromkeys(
                 [
+                    "pkhl2zbs",  # K10 Smart Knob
                     "xicdxood",  # Raycube K7 Pro+
                     "rlyxv7pe",  # A1 PRO MAX
                     "oyqux5vv",  # LA-01
